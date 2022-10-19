@@ -19,4 +19,4 @@ https://relodig.netlify.app/
 
 ## Tela Inicial 
 
-<img src="relogio-digital.png">
+<img src=".github/relogio-digital.png">
